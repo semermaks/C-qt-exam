@@ -1,0 +1,10 @@
+release/Dairy.o
+release/Drink.o
+release/Product.o
+release/addtovar.o
+release/main.o
+release/Supermarket.o
+release/meat.o
+release/sklad.o
+release/moc_Supermarket.o
+release/moc_addtovar.o

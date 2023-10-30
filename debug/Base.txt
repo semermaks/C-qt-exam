@@ -1,0 +1,5 @@
+41=Product=Potato=25
+25=Product=Carrot=30
+5=Meat=Cow=31=Rebro 
+20=Drink=Coca Cola=50=1
+4=Dairy=Prosto Kvashino=52=0.5=11.09.2021
